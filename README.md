@@ -1,7 +1,7 @@
 解决Windows和MacOS的时间同步问题(支持MacOS 11.0.1 Big Sur). 这是一个本地脚本,用来解决MacOS和Windows之间的同步问题(安装了多重引导);
 这个仓库是在 [harmc0re](http://www.insanelymac.com/forum/topic/264769-fix-the-time-difference-between-osx86-and-windows-in-multiboot-setups) 指令的基础上建立的;
 
-####Install
+#### 安装
 1. 下载源代码ZIP文件并解压.
 2. 到解压目录;
 3. 运行命令:
