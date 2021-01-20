@@ -7,7 +7,7 @@
 3. 运行命令:
 ```
 sudo chmod +x fix_time_osx.sh
-./fix_time_osx.sh
+sudo ./fix_time_osx.sh
 ```
 
 如果情况好的话,在最后一个命令输入后,你可能注意到时间又一次改变了;
